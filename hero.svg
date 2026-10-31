@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Niranjan Kumar Potter | MuleSoft developer and technical lead</title>
+  <desc id="hero-desc">Burgundy banner with an animated API connection diagram. API-led integration, CloudHub 2.0, and DataWeave.</desc>
+  <defs>
+    <linearGradient id="hero-background" x2="1" y2="1">
+      <stop stop-color="#10070C"/>
+      <stop offset="0.6" stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+    <linearGradient id="hero-line">
+      <stop stop-color="#701A3D"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#C77B9B"/>
+    </linearGradient>
+    <pattern id="hero-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#C77B9B" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="440" rx="24" fill="url(#hero-background)"/>
+  <rect width="1200" height="440" rx="24" fill="url(#hero-grid)"/>
+  <rect x="1" y="1" width="1198" height="438" rx="23" fill="none" stroke="#C77B9B" stroke-opacity="0.3"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="78" fill="#E5B5C7" font-size="13" letter-spacing="4">API-LED INTEGRATION / TECHNICAL LEADERSHIP</text>
+    <text x="60" y="160" fill="#F8F0F3" font-size="52" font-weight="700">Niranjan Kumar</text>
+    <text x="60" y="221" fill="#F8F0F3" font-size="52" font-weight="700">Potter</text>
+    <path d="M64 246H620" stroke="url(#hero-line)" stroke-width="3"/>
+    <text x="64" y="291" fill="#E5B5C7" font-size="23">Senior MuleSoft Developer / Technical Lead</text>
+    <text x="64" y="329" fill="#E5B5C7" font-size="17">Enterprise APIs, cloud migrations, and reusable integrations.</text>
+    <text x="64" y="388" fill="#C77B9B" font-size="13" letter-spacing="2">MULE 4   /   DATAWEAVE   /   CLOUDHUB 2.0   /   AWS</text>
+  </g>
+  <g fill="none" stroke="#C77B9B">
+    <circle cx="968" cy="206" r="135" stroke-opacity="0.15"/>
+    <circle cx="968" cy="206" r="100" stroke-opacity="0.15" stroke-dasharray="3 12"/>
+    <path d="M839 128H916Q936 128 936 148V186Q936 206 956 206H1058" stroke="url(#hero-line)" stroke-width="2"/>
+    <path d="M839 288H916Q936 288 936 268V226Q936 206 956 206" stroke="url(#hero-line)" stroke-width="2"/>
+    <path d="M839 128H916Q936 128 936 148V186Q936 206 956 206H1058" stroke="#F8F0F3" stroke-width="3" stroke-dasharray="6 300" opacity="0.7">
+      <animate attributeName="stroke-dashoffset" values="306;0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g fill="#190B12" stroke="#C77B9B" stroke-opacity="0.65">
+    <rect x="791" y="104" width="98" height="48" rx="10"/>
+    <rect x="791" y="264" width="98" height="48" rx="10"/>
+    <rect x="1020" y="182" width="98" height="48" rx="10"/>
+  </g>
+  <g fill="#F8F0F3" font-family="Consolas, monospace" font-size="14" text-anchor="middle">
+    <text x="840" y="134">APIs</text>
+    <text x="840" y="294">EVENTS</text>
+    <text x="1069" y="212">SYSTEMS</text>
+  </g>
+  <circle cx="936" cy="206" r="5" fill="#E5B5C7"/>
+</svg>
