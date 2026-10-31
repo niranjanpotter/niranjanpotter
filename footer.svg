@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-labelledby="footer-title">
+  <title id="footer-title">API design, integration delivery, and developer mentoring</title>
+  <defs>
+    <linearGradient id="footer-background">
+      <stop stop-color="#190B12"/>
+      <stop offset="1" stop-color="#451126"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="96" rx="16" fill="url(#footer-background)"/>
+  <path d="M32 1H1168" stroke="#C77B9B" stroke-opacity="0.5"/>
+  <text x="40" y="56" fill="#F8F0F3" font-family="Segoe UI, Arial, sans-serif" font-size="18">API design / Integration delivery / Developer mentoring</text>
+  <g fill="#E5B5C7">
+    <circle cx="1080" cy="48" r="4"/>
+    <circle cx="1104" cy="48" r="4" opacity="0.55">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1128" cy="48" r="4" opacity="0.3"/>
+  </g>
+</svg>
