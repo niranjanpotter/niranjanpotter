@@ -326,6 +326,9 @@ or career opportunities.
 
 **[Schedule a MuleSoft discussion on Calendly](https://calendly.com/niranjanpotter1997/mulesoft-discussion)**
 
+**Phone:** +91 85620 96041<br />
+**WhatsApp:** [Chat with me directly](https://wa.me/918562096041)
+
 <a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion">
   <img src="assets/connect.svg" width="100%" alt="07 / Connect: Schedule a MuleSoft discussion on Calendly about integration architecture, technical leadership, or career opportunities." />
 </a>
