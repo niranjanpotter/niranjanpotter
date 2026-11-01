@@ -8,7 +8,7 @@
   <a href="https://github.com/niranjanpotter?tab=repositories"><img src="assets/link-repositories.svg" width="170" alt="Public repositories" /></a>
   <a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion"><img src="assets/link-calendly.svg" width="170" alt="Schedule a call on Calendly" /></a>
   <br />
-  <a href="tel:+918562096041"><img src="assets/link-phone.svg" width="170" alt="Phone: +91 85620 96041" /></a>
+  <a href="https://drive.google.com/file/d/1I_CT4moyXk4YpAW2O5USVT_9mWr56dPA/view"><img src="assets/link-resume.svg" width="170" alt="View Niranjan's resume" /></a>
   <a href="https://wa.me/918562096041"><img src="assets/link-whatsapp.svg" width="170" alt="Chat with Niranjan on WhatsApp" /></a>
 </p>
 
@@ -329,7 +329,8 @@ or career opportunities.
 
 **[Schedule a MuleSoft discussion on Calendly](https://calendly.com/niranjanpotter1997/mulesoft-discussion)**
 
-**Phone:** +91 85620 96041<br />
+**Phone:** [+91 85620 96041](https://niranjanpotter.github.io/niranjanpotter/#phone)<br />
+Open my contact page and tap the number to call from your phone.<br />
 **WhatsApp:** [Chat with me directly](https://wa.me/918562096041)
 
 <a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion">
@@ -340,6 +341,11 @@ or career opportunities.
   <a href="https://www.linkedin.com/in/niranjan-potter-551b49171"><img src="assets/link-linkedin.svg" width="170" alt="Connect on LinkedIn" /></a>
   <a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion"><img src="assets/link-calendly.svg" width="170" alt="Book a MuleSoft discussion" /></a>
 </p>
+
+## Resume
+
+[View my resume](https://drive.google.com/file/d/1I_CT4moyXk4YpAW2O5USVT_9mWr56dPA/view)
+or [download a copy](https://drive.google.com/uc?export=download&id=1I_CT4moyXk4YpAW2O5USVT_9mWr56dPA).
 
 ## Find my work
 
