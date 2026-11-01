@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="590" viewBox="0 0 1200 590"
+     role="img" aria-labelledby="intro-title intro-desc">
+  <title id="intro-title">Hi, I'm Niranjan</title>
+  <desc id="intro-desc">Senior MuleSoft Developer and Technical Lead with integration engineering experience
+    since 2021. API development, technical reviews, mentoring, CloudHub modernization, DataWeave,
+    hypercare, and knowledge transfer across energy, utilities, employee data, and CRM-to-ERP integrations.
+    The complete introduction is also available as expandable text below the card.</desc>
+  <defs>
+    <linearGradient id="intro-background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#F8FCFF"/>
+      <stop offset=".55" stop-color="#EEF8FD"/>
+      <stop offset="1" stop-color="#DEF2F7"/>
+    </linearGradient>
+    <radialGradient id="intro-light">
+      <stop stop-color="#9ED8EA" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#9ED8EA" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="intro-rule" gradientUnits="userSpaceOnUse" x1="56" y1="145" x2="1144" y2="145">
+      <stop stop-color="#007E9E"/>
+      <stop offset=".4" stop-color="#28657B"/>
+      <stop offset="1" stop-color="#28657B" stop-opacity=".1"/>
+    </linearGradient>
+    <clipPath id="intro-frame"><rect width="1200" height="590" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .intro-trace { stroke-dasharray: 4 96; animation: intro-trace 10s linear infinite; }
+    @keyframes intro-trace { from { stroke-dashoffset: 100; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .intro-trace { animation: none; } }
+  </style>
+  <g clip-path="url(#intro-frame)">
+    <rect width="1200" height="590" fill="url(#intro-background)"/>
+    <ellipse cx="1130" cy="80" rx="330" ry="230" fill="url(#intro-light)"/>
+    <g fill="none" stroke="#28657B" stroke-opacity=".12">
+      <circle cx="1123" cy="54" r="76"/>
+      <circle cx="1123" cy="54" r="98"/>
+      <path d="M1013 54H1233M1123 -56V164"/>
+    </g>
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="56" y="47" fill="#28657B" font-size="13" letter-spacing="3">A LITTLE ABOUT ME</text>
+      <text x="1144" y="47" text-anchor="end" fill="#28657B" font-size="12" letter-spacing="2">DESIGN / DELIVERY / LEADERSHIP</text>
+      <text x="54" y="116" font-family="Georgia, 'Palatino Linotype', serif" font-size="54" fill="#15384F">Hi, I'm <tspan font-style="italic" fill="#007E9E">Niranjan.</tspan></text>
+      <path d="M56 145H1144" fill="none" stroke="url(#intro-rule)" stroke-width="1.5"/>
+      <path class="intro-trace" pathLength="100" d="M56 145H1144" fill="none" stroke="#007E9E" stroke-width="3" stroke-linecap="round"/>
+      <g fill="#294A60" font-size="24">
+        <text x="56" y="205">I'm a Senior MuleSoft Developer and Technical Lead with integration</text>
+        <text x="56" y="239">engineering experience since 2021. I design and build enterprise APIs,</text>
+        <text x="56" y="273">lead technical reviews, and mentor developers. My work includes</text>
+        <text x="56" y="307">CloudHub modernization, DataWeave optimization, and post-go-live</text>
+        <text x="56" y="341">hypercare with knowledge transfer for support teams.</text>
+        <text x="56" y="404">My experience spans energy and utilities, employee data workflows,</text>
+        <text x="56" y="438">and CRM-to-ERP order integration. I work with business architects to</text>
+        <text x="56" y="472">turn requirements into implementation plans and guide integrations</text>
+        <text x="56" y="506">from design through deployment and handover.</text>
+      </g>
+      <path d="M56 546H1144" stroke="#28657B" stroke-opacity=".2"/>
+      <circle cx="61" cy="568" r="4" fill="#007E9E"/>
+      <text x="77" y="572" fill="#28657B" font-size="12" letter-spacing="2">ENTERPRISE INTEGRATION ENGINEERING SINCE 2021</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="588" rx="23" fill="none" stroke="#ADCFDF"/>
+</svg>

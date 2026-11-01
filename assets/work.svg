@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690" role="img" aria-labelledby="work-title work-desc">
+  <title id="work-title">02 / Selected work | Enterprise integration, from the inside.</title>
+  <desc id="work-desc">Professional work includes reusable enterprise APIs, CloudHub 2.0 and Java 17 modernization,
+    employee data integration, CRM-to-ERP order integration, and delivery automation. These are professional
+    experience summaries, not links to open-source projects.</desc>
+  <defs>
+    <linearGradient id="work-bg" x2="1" y2="1"><stop stop-color="#0B2033"/><stop offset="1" stop-color="#102D42"/></linearGradient>
+  </defs>
+  <style>
+
+    .work-flow { stroke-dasharray: 6 94; animation: work-flow 8s linear infinite; }
+    @keyframes work-flow { from { stroke-dashoffset: 100; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .work-flow { animation: none; } }
+  </style>
+  <rect width="1200" height="690" rx="22" fill="url(#work-bg)"/>
+  <rect x="1" y="1" width="1198" height="688" rx="21" fill="none" stroke="#53CADD" stroke-opacity=".3"/>
+  <g class="rise" font-family="Segoe UI, Arial, sans-serif">
+    <text x="44" y="45" fill="#A6EAF4" font-size="13" letter-spacing="3">02 / SELECTED WORK</text>
+    <text x="44" y="94" fill="#F0F9FF" font-family="Georgia,serif" font-size="40">Enterprise integration, from the inside.</text>
+    <g fill="#071321" stroke="#53CADD" stroke-opacity=".25">
+      <rect x="44" y="127" width="1112" height="145" rx="14"/>
+      <rect x="44" y="290" width="1112" height="145" rx="14"/>
+      <rect x="44" y="453" width="1112" height="145" rx="14"/>
+    </g>
+    <g fill="#A6EAF4" font-size="14" font-family="Consolas, monospace">
+      <text x="68" y="163">01 / API DELIVERY</text>
+      <text x="68" y="326">02 / MODERNIZATION</text>
+      <text x="68" y="489">03 / BUSINESS FLOWS</text>
+    </g>
+    <g fill="#F0F9FF" font-family="Georgia,serif" font-size="29">
+      <text x="68" y="200">Reusable services. Consistent delivery.</text>
+      <text x="68" y="363">CloudHub 2.0 + Java 17</text>
+      <text x="68" y="526">Connecting HR, CRM, and ERP</text>
+    </g>
+    <g fill="#C1D9E7" font-size="18">
+      <text x="68" y="237">API-led integration, shared logging, error handling, and asynchronous flows.</text>
+      <text x="68" y="400">Platform migrations with Maven, Azure DevOps, and MUnit testing.</text>
+      <text x="68" y="563">Employee data and order workflows, with hypercare and team handover.</text>
+    </g>
+    <g fill="#A6EAF4" font-size="13" text-anchor="middle" letter-spacing="1">
+      <text x="1023" y="161">MULE / MQ</text>
+      <text x="1023" y="324">CLOUD / CI/CD</text>
+      <text x="1023" y="487">DATA / SYSTEMS</text>
+    </g>
+  </g>
+    <g class="chip" style="animation-delay:1.00s"><rect x="44" y="608" width="72" height="26" rx="13" fill="#103349" stroke="#53CADD" stroke-opacity=".35"/><text x="80.0" y="625" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#A6EAF4">Mule 4</text></g>
+    <g class="chip" style="animation-delay:1.12s"><rect x="124" y="608" width="96" height="26" rx="13" fill="#103349" stroke="#53CADD" stroke-opacity=".35"/><text x="172.0" y="625" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#A6EAF4">DataWeave</text></g>
+    <g class="chip" style="animation-delay:1.24s"><rect x="228" y="608" width="110" height="26" rx="13" fill="#103349" stroke="#53CADD" stroke-opacity=".35"/><text x="283.0" y="625" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#A6EAF4">CloudHub 2.0</text></g>
+    <g class="chip" style="animation-delay:1.36s"><rect x="346" y="608" width="108" height="26" rx="13" fill="#103349" stroke="#53CADD" stroke-opacity=".35"/><text x="400.0" y="625" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#A6EAF4">Anypoint MQ</text></g>
+    <g class="chip" style="animation-delay:1.48s"><rect x="462" y="608" width="56" height="26" rx="13" fill="#103349" stroke="#53CADD" stroke-opacity=".35"/><text x="490.0" y="625" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#A6EAF4">AWS</text></g>
+    <g class="chip" style="animation-delay:1.60s"><rect x="526" y="608" width="86" height="26" rx="13" fill="#103349" stroke="#53CADD" stroke-opacity=".35"/><text x="569.0" y="625" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#A6EAF4">GraphQL</text></g>
+    <g class="chip" style="animation-delay:1.72s"><rect x="620" y="608" width="72" height="26" rx="13" fill="#103349" stroke="#53CADD" stroke-opacity=".35"/><text x="656.0" y="625" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#A6EAF4">MUnit</text></g>
+    <g class="chip" style="animation-delay:1.84s"><rect x="700" y="608" width="104" height="26" rx="13" fill="#103349" stroke="#53CADD" stroke-opacity=".35"/><text x="752.0" y="625" text-anchor="middle" font-family="Consolas,monospace" font-size="11.5" fill="#A6EAF4">Azure DevOps</text></g>
+  <text x="44" y="668" fill="#C1D9E7" font-size="13">Professional work summaries. Client implementations stay private.</text>
+  <g fill="none" stroke="#53CADD" stroke-opacity=".45">
+    <path d="M920 215H967L989 193H1022L1044 215H1125"/>
+    <path d="M920 378H967L989 356H1022L1044 378H1125"/>
+    <path d="M920 541H967L989 519H1022L1044 541H1125"/>
+  </g>
+  <g fill="none" stroke="#A6EAF4" stroke-width="3">
+    <path class="work-flow" pathLength="100" d="M920 215H967L989 193H1022L1044 215H1125"/>
+    <path class="work-flow" pathLength="100" d="M920 378H967L989 356H1022L1044 378H1125"/>
+    <path class="work-flow" pathLength="100" d="M920 541H967L989 519H1022L1044 541H1125"/>
+  </g>
+</svg>

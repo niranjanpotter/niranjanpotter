@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="about-title about-desc">
+  <title id="about-title">01 / About | Integration engineer. Technical lead. Team mentor.</title>
+  <desc id="about-desc">Niranjan has worked in integration engineering since 2021. His focus is enterprise APIs,
+    cloud modernization, technical leadership, and end-to-end knowledge transfer.</desc>
+  <defs>
+    <linearGradient id="about-bg" x2="1" y2="1">
+      <stop stop-color="#0B2033"/><stop offset="1" stop-color="#102D42"/>
+    </linearGradient>
+  </defs>
+  <style>
+
+    .about-trace {stroke-dasharray:8 92;animation:about-trace 10s linear infinite}
+    @keyframes about-trace {from {stroke-dashoffset:100} to {stroke-dashoffset:0}}
+    @media(prefers-reduced-motion:reduce) {.about-trace {animation:none}}
+  </style>
+  <rect width="1200" height="410" rx="22" fill="url(#about-bg)"/>
+  <rect x="1" y="1" width="1198" height="408" rx="21" fill="none" stroke="#53CADD" stroke-opacity=".3"/>
+  <g class="rise" font-family="Segoe UI, Arial, sans-serif">
+    <text x="44" y="45" fill="#A6EAF4" font-size="13" letter-spacing="3">01 / ABOUT</text>
+    <text x="44" y="94" fill="#F0F9FF" font-family="Georgia,serif" font-size="38">Integration engineer. Technical lead. Team mentor.</text>
+    <text x="44" y="142" fill="#C1D9E7" font-size="20">I connect enterprise systems and guide integrations from design to handover.</text>
+    <text x="44" y="173" fill="#C1D9E7" font-size="20">MuleSoft development, cloud modernization, and the teams behind delivery.</text>
+    <g fill="#071321" stroke="#53CADD" stroke-opacity=".25">
+      <rect x="44" y="211" width="350" height="150" rx="14"/>
+      <rect x="425" y="211" width="350" height="150" rx="14"/>
+      <rect x="806" y="211" width="350" height="150" rx="14"/>
+    </g>
+    <g fill="#A6EAF4" font-size="13" letter-spacing="2">
+      <text x="66" y="243">ENGINEERING SINCE</text>
+      <text x="447" y="243">CORE SPECIALISM</text>
+      <text x="828" y="243">DELIVERY OWNERSHIP</text>
+    </g>
+    <g fill="#F0F9FF" font-family="Georgia,serif" font-size="30">
+      <text x="66" y="286">2021</text>
+      <text x="447" y="286">MuleSoft + APIs</text>
+      <text x="828" y="286">Design to hypercare</text>
+    </g>
+    <g fill="#C1D9E7" font-size="17">
+      <text x="66" y="326">Enterprise integration experience</text>
+      <text x="447" y="326">DataWeave / CloudHub / AWS</text>
+      <text x="828" y="326">Mentoring + knowledge transfer</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#A6EAF4" stroke-opacity=".6">
+    <rect class="about-trace" pathLength="100" x="44" y="211" width="350" height="150" rx="14"/>
+    <rect class="about-trace" pathLength="100" x="425" y="211" width="350" height="150" rx="14" style="animation-delay:-3s"/>
+    <rect class="about-trace" pathLength="100" x="806" y="211" width="350" height="150" rx="14" style="animation-delay:-6s"/>
+  </g>
+</svg>

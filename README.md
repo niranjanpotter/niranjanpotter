@@ -1,16 +1,21 @@
 <p align="center">
-  <img src="hero.svg" width="1200" alt="Niranjan Kumar Potter | Senior MuleSoft Developer and Technical Lead | API-led integration, DataWeave, CloudHub 2.0, and AWS" />
+  <img src="hero.svg" width="100%" alt="Niranjan Kumar Potter | Senior MuleSoft Developer and Technical Lead | API-led integration, DataWeave, CloudHub 2.0, and AWS" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/niranjan-potter-551b49171">LinkedIn</a>
-  &nbsp; / &nbsp;
-  <a href="https://www.salesforce.com/trailblazer/npotter3">Trailblazer</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/niranjanpotter?tab=repositories">Repositories</a>
-  &nbsp; / &nbsp;
-  <a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion">Schedule a call</a>
+  <a href="https://www.linkedin.com/in/niranjan-potter-551b49171"><img src="assets/link-linkedin.svg" width="170" alt="LinkedIn profile" /></a>
+  <a href="https://www.salesforce.com/trailblazer/npotter3"><img src="assets/link-trailblazer.svg" width="170" alt="Trailblazer profile" /></a>
+  <a href="https://github.com/niranjanpotter?tab=repositories"><img src="assets/link-repositories.svg" width="170" alt="Public repositories" /></a>
+  <a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion"><img src="assets/link-calendly.svg" width="170" alt="Schedule a call on Calendly" /></a>
 </p>
+
+<img src="assets/about.svg" width="100%" alt="01 / About: Integration engineer since 2021, technical lead, and team mentor. MuleSoft APIs and delivery from design to hypercare." />
+
+<br />
+<img src="assets/introduction.svg" width="100%" alt="Hi, I'm Niranjan. Senior MuleSoft Developer and Technical Lead since 2021, focused on enterprise APIs, modernization, mentoring, and delivery through handover. Full introduction in the expandable text below." />
+
+<details>
+<summary><b>Read my full introduction</b></summary>
 
 # Hi, I'm Niranjan
 
@@ -22,6 +27,11 @@ for support teams.
 My experience spans energy and utilities, employee data workflows, and CRM-to-ERP order integration.
 I work with business architects to turn requirements into implementation plans and guide integrations
 from design through deployment and handover.
+
+</details>
+
+<details>
+<summary><b>Explore my background and areas of focus</b></summary>
 
 ## Career at a glance
 
@@ -44,6 +54,14 @@ My background is relevant to Senior MuleSoft Developer, MuleSoft Technical Lead,
 - Connect AWS services to Mule flows and automate delivery with Azure DevOps, Maven, and MUnit.
 - Explore agent orchestration with Model Context Protocol (MCP) and MuleSoft Agent Fabric.
 
+</details>
+
+<br />
+<img src="assets/work.svg" width="100%" alt="02 / Selected work: Reusable enterprise APIs, CloudHub 2.0 and Java 17 modernization, and HR, CRM, ERP integration." />
+
+<details>
+<summary><b>Read the integration work and technologies</b></summary>
+
 ## Selected integration work
 
 These are summaries of professional work. Client code and internal implementation details are not published here.
@@ -55,6 +73,15 @@ These are summaries of professional work. Client code and internal implementatio
 | Employee data integration | Built scheduled flows connecting HR data with CRM and other enterprise applications. | Workday, Salesforce, HTTP, SQL |
 | Order integration and handover | Delivered CRM-to-ERP integration work, investigated order and scheduler issues during hypercare, and explained end-to-end flows to support teams. | MuleSoft, CRM/ERP integration, hypercare, knowledge transfer |
 | Delivery automation | Automated builds and deployments with integration tests and code-quality checks. | Maven, Azure DevOps, MUnit, SonarQube |
+
+</details>
+
+<br />
+<img src="assets/toolkit.svg" width="100%" alt="03 / Toolkit: MuleSoft, DataWeave, API design, AWS services, Java, SQL databases, Azure DevOps, Maven, MUnit, SonarQube, and collaboration tools." />
+
+<details>
+<summary><b>View the complete technical toolkit</b></summary>
+
 ## Technical toolkit
 
 | Category | Technologies |
@@ -66,7 +93,15 @@ These are summaries of professional work. Client code and internal implementatio
 | Delivery and testing | Azure DevOps, Maven, Git, Jenkins, MUnit, SonarQube, Postman |
 | Operations and tooling | Splunk, Jira, Confluence, Anypoint Studio, Anypoint Code Builder |
 
+</details>
+
+<br />
+<img src="assets/experience.svg" width="100%" alt="04 / Experience: Tech Mahindra, Senior MuleSoft Engineer, July 2025 to present. NTT DATA / Apisero, Digital Engineering Senior Engineer, May 2021 to July 2025." />
+
 ## Professional experience
+
+<details>
+<summary><b>Tech Mahindra: development, technical leadership, and team enablement</b></summary>
 
 ### Tech Mahindra
 
@@ -118,6 +153,11 @@ cloud migration, and shared integration components.
 
 Technologies: Mule 4, Anypoint Platform, CloudHub 2.0, Anypoint MQ, DataWeave 2.0, GraphQL,
 AWS S3, DynamoDB, Secrets Manager, PostgreSQL, Oracle, IBM DB2, Maven, SonarQube.
+
+</details>
+
+<details>
+<summary><b>NTT DATA / Apisero: integrations, modernization, and end-to-end handover</b></summary>
 
 ### NTT DATA / Apisero
 
@@ -185,6 +225,14 @@ Technologies: Mule 4, Anypoint Platform, Anypoint Studio, Anypoint Code Builder,
 DataWeave 2.0, RAML, Java 17, Salesforce, Workday, Active Directory, HTTP, SQL, AWS,
 Azure Pipelines, Maven, MUnit, Git, Postman, Splunk, Jira, Confluence.
 
+</details>
+
+<br />
+<img src="assets/impact.svg" width="100%" alt="05 / Recognition: Two Star Performer awards, Rookie of Quarter, multiple Ace Awards, and client appreciation. Resume-reported reductions: 35% processing latency, 60% API response time, 40% deployment cycles." />
+
+<details>
+<summary><b>Read delivery outcomes, awards, and client recognition</b></summary>
+
 ## Achievements and recognition
 
 ### Delivery outcomes
@@ -204,6 +252,14 @@ Azure Pipelines, Maven, MUnit, Git, Postman, Splunk, Jira, Confluence.
 - Rookie of Quarter.
 - Ace Award, received multiple times.
 - Salesforce Trailhead Double Star Ranger.
+
+</details>
+
+<br />
+<img src="assets/learning.svg" width="100%" alt="06 / Credentials: Salesforce and MuleSoft credentials, seven Workato Academy completion certificates, and Trailhead Double Star Ranger. Expand for dates and historical status notes." />
+
+<details>
+<summary><b>View all Salesforce, MuleSoft, and Workato credentials with dates</b></summary>
 
 ## Certifications and professional learning
 
@@ -246,6 +302,11 @@ should be confirmed through the issuer's verification record.
 Workato entries are Academy certificates of completion. They are listed separately from Salesforce
 professional certifications.
 
+</details>
+
+<details>
+<summary><b>Education, languages, and career interests</b></summary>
+
 ## Education and professional interests
 
 - Bachelor of Technology, 2015 to 2019.
@@ -256,12 +317,23 @@ professional certifications.
 
 For role discussions, connect with me on [LinkedIn](https://www.linkedin.com/in/niranjan-potter-551b49171).
 
+</details>
+
 ## Let's discuss MuleSoft
 
 Schedule a call to discuss MuleSoft development, integration architecture, technical leadership,
 or career opportunities.
 
 **[Schedule a MuleSoft discussion on Calendly](https://calendly.com/niranjanpotter1997/mulesoft-discussion)**
+
+<a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion">
+  <img src="assets/connect.svg" width="100%" alt="07 / Connect: Schedule a MuleSoft discussion on Calendly about integration architecture, technical leadership, or career opportunities." />
+</a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/niranjan-potter-551b49171"><img src="assets/link-linkedin.svg" width="170" alt="Connect on LinkedIn" /></a>
+  <a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion"><img src="assets/link-calendly.svg" width="170" alt="Book a MuleSoft discussion" /></a>
+</p>
 
 ## Find my work
 
@@ -272,7 +344,7 @@ API-led integration, and cloud modernization.
 My genuine contribution graph is available on [my GitHub profile](https://github.com/niranjanpotter).
 
 <p align="center">
-  <img src="footer.svg" width="1200" alt="API design, integration delivery, and developer mentoring" />
+  <img src="footer.svg" width="100%" alt="API design, integration delivery, and developer mentoring" />
 </p>
 
 <!--
