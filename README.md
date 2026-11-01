@@ -7,6 +7,9 @@
   <a href="https://www.salesforce.com/trailblazer/npotter3"><img src="assets/link-trailblazer.svg" width="170" alt="Trailblazer profile" /></a>
   <a href="https://github.com/niranjanpotter?tab=repositories"><img src="assets/link-repositories.svg" width="170" alt="Public repositories" /></a>
   <a href="https://calendly.com/niranjanpotter1997/mulesoft-discussion"><img src="assets/link-calendly.svg" width="170" alt="Schedule a call on Calendly" /></a>
+  <br />
+  <a href="tel:+918562096041"><img src="assets/link-phone.svg" width="170" alt="Phone: +91 85620 96041" /></a>
+  <a href="https://wa.me/918562096041"><img src="assets/link-whatsapp.svg" width="170" alt="Chat with Niranjan on WhatsApp" /></a>
 </p>
 
 <img src="assets/about.svg" width="100%" alt="01 / About: Integration engineer since 2021, technical lead, and team mentor. MuleSoft APIs and delivery from design to hypercare." />
