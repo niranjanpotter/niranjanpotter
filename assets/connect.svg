@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="connect-title connect-desc">
+  <title id="connect-title">07 / Connect | Let's talk MuleSoft.</title>
+  <desc id="connect-desc">Schedule a call on Calendly to discuss MuleSoft development, integration architecture,
+    technical leadership, or career opportunities.</desc>
+  <defs>
+    <linearGradient id="connect-bg" x2="1" y2="1"><stop stop-color="#0B2033"/><stop offset="1" stop-color="#124052"/></linearGradient>
+  </defs>
+  <style>
+  </style>
+  <rect width="1200" height="230" rx="22" fill="url(#connect-bg)"/>
+  <rect x="1" y="1" width="1198" height="228" rx="21" fill="none" stroke="#53CADD" stroke-opacity=".4"/>
+  <g class="rise" font-family="Segoe UI, Arial, sans-serif">
+    <text x="44" y="45" fill="#A6EAF4" font-size="13" letter-spacing="3">07 / CONNECT</text>
+    <text x="44" y="100" fill="#F0F9FF" font-family="Georgia,serif" font-size="44">Let's talk MuleSoft.</text>
+    <text x="44" y="146" fill="#C1D9E7" font-size="19">Integration architecture, technical leadership,</text>
+    <text x="44" y="176" fill="#C1D9E7" font-size="19">or the next opportunity to build together.</text>
+    <rect x="840" y="81" width="316" height="72" rx="14" fill="#A6EAF4"/>
+    <text x="875" y="125" fill="#0B2033" font-size="23" font-weight="700">Schedule a discussion</text>
+  </g>
+</svg>

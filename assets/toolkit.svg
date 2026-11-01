@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="toolkit-title toolkit-desc">
+  <title id="toolkit-title">03 / Technical toolkit | Built around integration.</title>
+  <desc id="toolkit-desc">Integration: Mule 4, Anypoint Platform, CloudHub 2.0, Anypoint MQ.
+    API and data: DataWeave, RAML, REST, SOAP, GraphQL. Cloud: AWS S3, DynamoDB, Secrets Manager.
+    Delivery: Azure DevOps, Maven, MUnit, SonarQube. Databases: SQL, PostgreSQL, Oracle, MySQL.
+    Team tooling: Splunk, Postman, Jira, Confluence, Anypoint Code Builder.</desc>
+  <defs>
+    <radialGradient id="toolkit-halo"><stop stop-color="#087F9C" stop-opacity=".45"/><stop offset="1" stop-color="#087F9C" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+
+    .toolkit-trace {stroke-dasharray:8 92;animation:toolkit-trace 12s linear infinite}
+    @keyframes toolkit-trace {from {stroke-dashoffset:100} to {stroke-dashoffset:0}}
+    @media(prefers-reduced-motion:reduce) {.toolkit-trace {animation:none}}
+  </style>
+  <rect width="1200" height="620" rx="22" fill="#0B2033"/>
+  <ellipse cx="600" cy="340" rx="570" ry="270" fill="url(#toolkit-halo)"/>
+  <path d="M409 131V573M790 131V573M44 345H1156" stroke="#DFC28E" stroke-opacity=".3"/>
+  <g fill="none" stroke="#A6EAF4" stroke-width="1.5">
+    <path class="toolkit-trace" pathLength="100" d="M409 131V345H1156"/>
+    <path class="toolkit-trace" pathLength="100" d="M790 573V345H44"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="618" rx="21" fill="none" stroke="#53CADD" stroke-opacity=".3"/>
+  <g class="rise" font-family="Segoe UI, Arial, sans-serif">
+    <text x="44" y="45" fill="#A6EAF4" font-size="13" letter-spacing="3">03 / TECHNICAL TOOLKIT</text>
+    <text x="44" y="94" fill="#F0F9FF" font-family="Georgia,serif" font-size="40">Built around integration.</text>
+    <g fill="#071321" stroke="#53CADD" stroke-opacity=".25">
+      <rect x="44" y="130" width="350" height="205" rx="14"/>
+      <rect x="425" y="130" width="350" height="205" rx="14"/>
+      <rect x="806" y="130" width="350" height="205" rx="14"/>
+      <rect x="44" y="355" width="350" height="220" rx="14"/>
+      <rect x="425" y="355" width="350" height="220" rx="14"/>
+      <rect x="806" y="355" width="350" height="220" rx="14"/>
+    </g>
+    <g fill="#A6EAF4" font-size="13" letter-spacing="2">
+      <text x="68" y="166">01 / INTEGRATION</text>
+      <text x="449" y="166">02 / API + DATA</text>
+      <text x="830" y="166">03 / AWS</text>
+      <text x="68" y="391">04 / DELIVERY</text>
+      <text x="449" y="391">05 / LANGUAGES + DATABASES</text>
+      <text x="830" y="391">06 / TEAM TOOLING</text>
+    </g>
+    <g fill="#F0F9FF" font-family="Georgia,serif" font-size="25">
+      <text x="68" y="211">MuleSoft</text>
+      <text x="449" y="211">DataWeave 2.0</text>
+      <text x="830" y="211">Cloud services</text>
+      <text x="68" y="436">CI/CD + quality</text>
+      <text x="449" y="436">Java 17 + SQL</text>
+      <text x="830" y="436">Observe + collaborate</text>
+    </g>
+    <g fill="#C1D9E7" font-size="18">
+      <text x="68" y="251">Mule 4 / Anypoint Platform</text>
+      <text x="68" y="280">CloudHub 2.0 / Anypoint MQ</text>
+      <text x="68" y="309">API Manager / APIkit</text>
+      <text x="449" y="251">RAML / REST / SOAP</text>
+      <text x="449" y="280">JSON / XML / GraphQL</text>
+      <text x="449" y="309">API-led connectivity</text>
+      <text x="830" y="251">Amazon S3</text>
+      <text x="830" y="280">DynamoDB</text>
+      <text x="830" y="309">Secrets Manager</text>
+      <text x="68" y="476">Azure DevOps / Maven / Git</text>
+      <text x="68" y="505">MUnit / SonarQube</text>
+      <text x="68" y="534">Jenkins</text>
+      <text x="449" y="476">PostgreSQL / Oracle</text>
+      <text x="449" y="505">MySQL / SQL Server</text>
+      <text x="449" y="534">Data mapping + transformation</text>
+      <text x="830" y="476">Splunk / Postman</text>
+      <text x="830" y="505">Jira / Confluence</text>
+      <text x="830" y="534">Studio / Anypoint Code Builder</text>
+    </g>
+  </g>
+  <g fill="none" stroke="#A6EAF4" stroke-opacity=".65" stroke-width="1.2">
+    <rect class="toolkit-trace" pathLength="100" x="44" y="130" width="350" height="205" rx="14"/>
+    <rect class="toolkit-trace" pathLength="100" x="425" y="130" width="350" height="205" rx="14" style="animation-delay:-4s"/>
+    <rect class="toolkit-trace" pathLength="100" x="806" y="130" width="350" height="205" rx="14" style="animation-delay:-8s"/>
+    <rect class="toolkit-trace" pathLength="100" x="44" y="355" width="350" height="220" rx="14" style="animation-delay:-6s"/>
+    <rect class="toolkit-trace" pathLength="100" x="425" y="355" width="350" height="220" rx="14" style="animation-delay:-10s"/>
+    <rect class="toolkit-trace" pathLength="100" x="806" y="355" width="350" height="220" rx="14" style="animation-delay:-2s"/>
+  </g>
+</svg>

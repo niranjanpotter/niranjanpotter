@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-labelledby="learning-title learning-desc">
+  <title id="learning-title">06 / Credentials and learning | Architecture, integration, and automation.</title>
+  <desc id="learning-desc">Resume-listed Salesforce and MuleSoft credentials, seven Workato Academy certificates
+    of completion, and Salesforce Trailhead Double Star Ranger. Full names, dates, and historical credential
+    notes are in the text below this image.</desc>
+  <style>
+</style>
+  <rect width="1200" height="450" rx="22" fill="#0B2033"/>
+  <rect x="1" y="1" width="1198" height="448" rx="21" fill="none" stroke="#53CADD" stroke-opacity=".3"/>
+  <g class="rise" font-family="Segoe UI, Arial, sans-serif">
+    <text x="44" y="45" fill="#A6EAF4" font-size="13" letter-spacing="3">06 / CREDENTIALS + LEARNING</text>
+    <text x="44" y="94" fill="#F0F9FF" font-family="Georgia,serif" font-size="40">Architecture, integration, and automation.</text>
+    <g fill="#071321" stroke="#53CADD" stroke-opacity=".25">
+      <rect x="44" y="130" width="540" height="220" rx="14"/>
+      <rect x="614" y="130" width="542" height="220" rx="14"/>
+    </g>
+    <g fill="#A6EAF4" font-size="13" letter-spacing="2">
+      <text x="68" y="167">SALESFORCE + MULESOFT</text>
+      <text x="638" y="167">WORKATO ACADEMIES</text>
+    </g>
+    <g fill="#F0F9FF" font-family="Georgia,serif" font-size="30">
+      <text x="68" y="211">Platform Architect I</text>
+      <text x="638" y="211">7 completion certificates</text>
+    </g>
+    <g fill="#C1D9E7" font-size="18">
+      <text x="68" y="254">Development / integration foundations</text>
+      <text x="68" y="285">Data Cloud / AI foundations</text>
+      <text x="68" y="316">Historical Developer I + II credentials</text>
+      <text x="638" y="254">Agentic / Enterprise Orchestration</text>
+      <text x="638" y="285">Technical Developer + Technical Architect</text>
+      <text x="638" y="316">Foundations I + II / Enterprise AI Essentials</text>
+    </g>
+    <text x="44" y="391" fill="#A6EAF4" font-size="20">Salesforce Trailhead / Double Star Ranger</text>
+    <text x="44" y="422" fill="#C1D9E7" font-size="14">See the full credential record below for dates, issuer categories, and status notes.</text>
+  </g>
+</svg>

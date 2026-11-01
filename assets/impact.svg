@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="570" viewBox="0 0 1200 570" role="img" aria-labelledby="impact-title impact-desc">
+  <title id="impact-title">05 / Impact and recognition | Delivery that earns trust.</title>
+  <desc id="impact-desc">Resume-reported outcomes: 35 percent lower processing latency, 60 percent lower API response time,
+    and 40 percent shorter deployment cycles. Recognition: Star Performer twice, Rookie of Quarter,
+    multiple Ace Awards, and client appreciation for delivery ahead of agreed timelines.</desc>
+  <defs>
+    <linearGradient id="impact-bg" x2="1" y2="1"><stop stop-color="#0B2033"/><stop offset="1" stop-color="#124052"/></linearGradient>
+    <radialGradient id="impact-light"><stop stop-color="#087F9C" stop-opacity=".75"/><stop offset="1" stop-color="#087F9C" stop-opacity="0"/></radialGradient>
+    <linearGradient id="impact-gold"><stop stop-color="#DFC28E"/><stop offset=".5" stop-color="#F0F9FF"/><stop offset="1" stop-color="#A6EAF4"/></linearGradient>
+  </defs>
+  <style>
+
+    .impact-trace {stroke-dasharray:10 90;animation:impact-trace 10s linear infinite}
+    .impact-orbit {transform-origin:491px 230px;animation:impact-orbit 36s linear infinite}
+    @keyframes impact-trace {from {stroke-dashoffset:100} to {stroke-dashoffset:0}}
+    @keyframes impact-orbit {to {transform:rotate(360deg)}}
+    @media(prefers-reduced-motion:reduce) {.impact-trace,.impact-orbit {animation:none}}
+  </style>
+  <rect width="1200" height="570" rx="22" fill="url(#impact-bg)"/>
+  <rect x="1" y="1" width="1198" height="568" rx="21" fill="none" stroke="#53CADD" stroke-opacity=".3"/>
+  <g class="rise" font-family="Segoe UI, Arial, sans-serif">
+    <text x="44" y="45" fill="#A6EAF4" font-size="13" letter-spacing="3">05 / IMPACT + RECOGNITION</text>
+    <text x="44" y="98" fill="#F0F9FF" font-family="Georgia,serif" font-size="40">Delivery that earns trust.</text>
+    <rect x="44" y="135" width="540" height="346" rx="16" fill="#102D42" stroke="#53CADD" stroke-opacity=".35"/>
+    <ellipse cx="450" cy="265" rx="130" ry="126" fill="url(#impact-light)"/>
+    <rect class="impact-trace" pathLength="100" x="44" y="135" width="540" height="346" rx="16" fill="none" stroke="url(#impact-gold)" stroke-width="1.5"/>
+    <text x="72" y="180" fill="#DFC28E" font-size="12" letter-spacing="2">RECOGNITION AT WORK</text>
+    <text x="72" y="253" fill="#F0F9FF" font-family="Georgia,serif" font-size="62">2x</text>
+    <text x="72" y="300" fill="#F0F9FF" font-family="Georgia,serif" font-size="37">Star Performer</text>
+    <text x="72" y="352" fill="#A6EAF4" font-size="22">Rookie of Quarter</text>
+    <text x="72" y="390" fill="#A6EAF4" font-size="22">Multiple Ace Awards</text>
+    <text x="72" y="444" fill="#C1D9E7" font-size="18">Recognized for timely delivery.</text>
+    <g fill="#0B2033" stroke="#53CADD" stroke-opacity=".25">
+      <rect x="611" y="135" width="545" height="102" rx="14"/>
+      <rect x="611" y="257" width="545" height="102" rx="14"/>
+      <rect x="611" y="379" width="545" height="102" rx="14"/>
+    </g>
+    <g fill="#F0F9FF" font-family="Georgia,serif" font-size="51">
+      <text x="639" y="204">35%</text><text x="639" y="326">60%</text><text x="639" y="448">40%</text>
+    </g>
+    <g fill="#A6EAF4" font-size="20">
+      <text x="780" y="177">Lower processing latency</text>
+      <text x="780" y="299">Lower API response time</text>
+      <text x="780" y="421">Shorter deployment cycles</text>
+    </g>
+    <g fill="#C1D9E7" font-size="17">
+      <text x="780" y="207">DataWeave optimization</text>
+      <text x="780" y="329">Parallel orchestration</text>
+      <text x="780" y="451">Azure DevOps + Maven</text>
+    </g>
+    <text x="44" y="518" fill="#A6EAF4" font-size="18">Client appreciation for fast turnaround and delivery ahead of agreed timelines.</text>
+    <text x="44" y="548" fill="#C1D9E7" font-size="13">Performance figures are outcomes reported in my professional resume.</text>
+  </g>
+  <g fill="none" stroke="#DFC28E">
+    <circle cx="491" cy="230" r="47" stroke-opacity=".3"/>
+    <circle class="impact-orbit" cx="491" cy="230" r="60" stroke-dasharray="45 140" stroke-opacity=".6"/>
+    <path d="M491 199L500 219L522 222L506 237L510 260L491 249L472 260L476 237L460 222L482 219Z"
+          fill="#DFC28E" fill-opacity=".12" stroke-width="1.5"/>
+  </g>
+</svg>
